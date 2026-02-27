@@ -1,6 +1,8 @@
 # Visual-thinking
 This is a data and code repository for the article titled "Embracing Diverse Narratives through Visual Thinking: Interactive Digital Maps and Spatial Conflict Dynamics."
 
+Authors: Annette Idler, Jota Samper, and Kate Tkacova
+
 ## Licensing
 
 Code in this repository is licensed under the MIT License, see LICENSE_CODE.
