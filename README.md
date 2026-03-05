@@ -1,5 +1,5 @@
-# Visual-thinking
-This is a data and code repository for the article titled "Embracing Diverse Narratives through Visual Thinking: Interactive Digital Maps and Spatial Conflict Dynamics."
+# Visual-thinking-in-IR
+This is a data and code repository for the article titled "Visual Thinking in International Relations: Interactive Digital Maps, Spatial Conflict Dynamics, and Diverse Narratives." 
 
 Authors: Annette Idler, Jota Samper, and Kate Tkacova
 
