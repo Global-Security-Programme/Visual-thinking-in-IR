@@ -7,6 +7,9 @@ library(tidyverse)
 
 
 # Data  -------------------------------------------------------------------
+# download Ukraine data from https://acleddata.com/conflict-data/data-export-tool
+# select location: Ukraine
+# select date range: 01/01/2018 - 08/07/2022
 
 data <- read.csv("data/ACLED-data-Ukraine-raw.csv")
 
